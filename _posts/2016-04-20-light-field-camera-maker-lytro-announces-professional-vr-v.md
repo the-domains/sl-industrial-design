@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-24T04:01:09.242Z'
+datePublished: '2016-05-24T04:01:11.106Z'
 sourcePath: _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
 isBasedOnUrl: 'http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera'
@@ -20,7 +20,7 @@ author:
   - name: Adi Robertson
     url: 'http://www.theverge.com/users/adirobertson'
     avatar: {}
-dateModified: '2016-05-24T04:01:07.670Z'
+dateModified: '2016-05-24T04:01:10.252Z'
 title: "'Light field' camera maker Lytro announces professional VR video rig"
 app_links: []
 publisher:
