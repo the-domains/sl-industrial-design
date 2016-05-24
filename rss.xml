@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SL Industrial Design]]></title>
         <description><![CDATA[SL Industrial Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sl-industrial-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 04:01:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 04:01:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sl-industrial-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
+            <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
+            <guid isPermaLink="false">4fa4d6e2-aa37-40e0-b29f-af951b032532</guid>
+            <pubDate>Tue, 24 May 2016 04:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
             <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
