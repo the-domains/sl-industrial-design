@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-24T04:01:09.390Z'
+datePublished: '2016-05-24T04:01:10.948Z'
 sourcePath: _posts/2016-04-27-spotifys-design-lead-on-why-side-projects-should-be-stupid.md
 inFeed: true
 isBasedOnUrl: 'http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/'
@@ -24,7 +24,7 @@ related:
     thumbnail_url: 'http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg'
     thumbnail_width: 640
 author: []
-dateModified: '2016-05-24T04:01:07.688Z'
+dateModified: '2016-05-24T04:01:10.293Z'
 title: "Spotify's Design Lead on Why Side Projects Should Be Stupid"
 app_links: []
 publisher:
