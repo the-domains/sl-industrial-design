@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-24T04:01:09.209Z'
+datePublished: '2016-05-24T04:01:11.302Z'
 sourcePath: _posts/2016-04-15-why-tesla-will-destroy-the-automobile-industry.md
 inFeed: true
 isBasedOnUrl: 'http://www.inc.com/geoffrey-james/why-tesla-will-destroy-the-automobile-industry.html?cid=sf01002&sr_share=facebook'
@@ -20,7 +20,7 @@ author:
   - name: Geoffrey James
     url: 'http://www.inc.com/author/geoffrey-james'
     avatar: {}
-dateModified: '2016-05-24T04:01:08.670Z'
+dateModified: '2016-05-24T04:01:10.057Z'
 title: Why Tesla Will Destroy the Automobile Industry
 app_links: []
 publisher:
