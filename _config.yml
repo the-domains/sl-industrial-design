@@ -1,14 +1,14 @@
-layout_spectrum: 0.5980399248655885
-typography_spectrum: 0.8888397682458162
+layout_spectrum: 0.40109511627815664
+typography_spectrum: 0.9565748542081565
 color:
-  brandStrength: 0.944715911289677
-  lightness: 0.2242682685609907
-  saturation: 0.6392776088323444
-  rhythmicContrast: 0.04512825910933316
+  brandStrength: 0.13029778911732137
+  lightness: 0.4784173334483057
+  saturation: 0.7467544756364077
+  rhythmicContrast: 0.03191590239293873
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: SL Industrial Design
