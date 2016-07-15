@@ -1,4 +1,3 @@
-layout_spectrum: 0.40109511627815664
 typography_spectrum: 0.9565748542081565
 color:
   brandStrength: 0.13029778911732137
@@ -11,4 +10,10 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+layout_spectrum: 0.40109511627815664
+author:
+  name: Simon Laumet
+  email: hello@simonlaumet.co
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b887e35e-149d-4fdd-9b4a-9a6018c19907.png
 name: SL Industrial Design
