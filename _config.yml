@@ -1,16 +1,16 @@
-typography_spectrum: 0.17799510690383613
+typography_spectrum: 0.5998739174101502
 color:
-  brandStrength: 0.24810462375171483
-  lightness: 0.15948100411333144
-  saturation: 0.3052284100558609
-  rhythmicContrast: 0.18856067629531026
+  brandStrength: 0.6368525975849479
+  lightness: 0.4050166371744126
+  saturation: 0.5783158561680466
+  rhythmicContrast: 0.00656880671158433
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-layout_spectrum: 0.07394040725193918
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.01035408629104495
 author:
   name: Simon Laumet
   email: hello@simonlaumet.co
