@@ -1,4 +1,4 @@
-typography_spectrum: 0.5998739174101502
+typography_spectrum: 0.9574905666522682
 color:
   brandStrength: 0.6368525975849479
   lightness: 0.4050166371744126
@@ -10,7 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-layout_spectrum: 0.01035408629104495
+layout_spectrum: 0.8693970905151218
 author:
   name: Simon Laumet
   email: hello@simonlaumet.co
