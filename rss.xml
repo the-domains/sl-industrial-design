@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SL Industrial Design]]></title>
+        <description><![CDATA[SL Industrial Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 11:07:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A freelance Industrial Designer & Product Adviser]]></title>
+            <description><![CDATA[<article><h1>A freelance Industrial Designer & Product Adviser</h1><p>I’ve helped a range of clients from Seiko Epson Corporation & TAG Heuer to Early stage startups. Working with their design, branding and marketing teams to define, design and launch their new products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50fb04a05a8db4185132aa4afc240977840a170.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfac88ab-dc49-47af-a5bc-819ffc8b2bdd.jpg</link>
+            <guid isPermaLink="false">f1b1b6d7-68e8-4620-bf3e-84fbc9c1be45</guid>
+            <pubDate>Thu, 28 Jul 2016 11:07:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
