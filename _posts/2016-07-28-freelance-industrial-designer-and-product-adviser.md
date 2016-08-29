@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-28T11:07:10.657Z'
+datePublished: '2016-08-28T11:05:45.364Z'
 sourcePath: _posts/2016-07-28-freelance-industrial-designer-and-product-adviser.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfac88ab-dc49-47af-a5bc-819ffc8b2bdd.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T10:57:31.134Z'
-title: A freelance Industrial Designer & Product Adviser
+dateModified: '2016-08-28T11:05:44.734Z'
+title: Freelance Industrial Designer & Product Adviser
 publisher: {}
 description: >-
   I’ve helped a range of clients from Seiko Epson Corporation & TAG Heuer to
@@ -19,7 +19,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# A freelance Industrial Designer & Product Adviser
+# Freelance Industrial Designer & Product Adviser
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50fb04a05a8db4185132aa4afc240977840a170.jpg)
 
 I've helped a range of clients from Seiko Epson Corporation & TAG Heuer to Early stage startups. Working with their design, branding and marketing teams to define, design and launch their new products.
